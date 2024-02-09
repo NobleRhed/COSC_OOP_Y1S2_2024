@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 public class Main {
 //My array to hold instances of currency classes for conversion
-    private static currency[] globalCurrencies = {
+    private static final currency[] globalCurrencies = {
             new canadianDollar(),
             new usDollar(),
             new chineseYuan(),
