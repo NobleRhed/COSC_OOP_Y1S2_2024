@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"Week8FileIODemo","c":"BufferedOutputStreamDemo","l":"BufferedOutputStreamDemo()","u":"%3Cinit%3E()"},{"p":"Week8FileIODemo","c":"BufferedOutputStreamDemo","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
