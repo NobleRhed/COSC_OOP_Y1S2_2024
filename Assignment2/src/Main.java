@@ -1,6 +1,7 @@
 import java.util.Scanner;
 import assign2.Q1stack;
 import assign2.Q2Cycle.Solution;
+import assign2.Q3QueueArray;
 
 public class Main {
     public static void main(String[] args) {
@@ -41,5 +42,11 @@ public class Main {
         System.out.println("List head2 is looping? " + answer.containsCycle(head2)); // Should print true
 
         scanner.close(); // close scanner
+
+
+        Q3QueueArray queue = new Q3QueueArray(5);
+
+
+
     }
 }

@@ -6,7 +6,7 @@ public class Q2Cycle {
          * <p>
          * The implementation of Floyd's Tortoise and Hare algorithm for cycle detection
          * in this class is inspired by the explanation found at:
-         * https://dev.to/alisabaj/floyd-s-tortoise-and-hare-algorithm-finding-a-cycle-in-a-linked-list-39af
+         * https://dev.to/alisabaj/floyd's-tortoise-and-hare-algorithm-finding-a-cycle-in-a-linked-list-39af
          * This source provides a clear explanation of the algorithm's principles and its application
          * for detecting cycles in linked lists.
          */
