@@ -5,22 +5,22 @@ import java.io.IOException;
 
 public class Main {
     public static void main(String[] args) {
-
-
+        // Instantiate DataStructures
         DataStructures dataStructures = new DataStructures();
-        //Array to insert elements into the data structures
-        int[] elements = {5, 11, 14, 21, 5};
 
-        // Insert elements into data structures and add parameters to each instance
+        // Array to be inserted into each data structure
+        int[] elements = {1, 2, 3, 4, 5};
+
+        // Insert array into LinkedList, Stack, and Queue
         dataStructures.linkedList.insertArray(elements);
         dataStructures.stack.pushArray(elements);
-        dataStructures.queue.enQueueArray(elements);
+        dataStructures.queue.enqueueArray(elements);
 
-
-        // Perform operations and handle exceptions
-        dataStructures.linkedList.insert(1);
-        dataStructures.stack.push(1);
-        dataStructures.queue.enQueue(1);
+        // Display the contents of each data structure
+        dataStructures.linkedList.display();
+        dataStructures.stack.display();
+        dataStructures.queue.display();
+    }
 
         // Demonstrate file operations
         String filename = "data.txt";
