@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d225224-4875-4a43-bd2a-9fe1dd7da26d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ICE_Week10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Frequency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sampletext.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeek9GUIDemo/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeek9GUIDemo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeek9GUIDemo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeek9GUIDemo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeek9GUIDemo/JavaWeek9GUIDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaWeek9GUIDemo/src/GUIDemo/GUIDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2/src/assign2/Q2Cycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2/src/assign2/Q2Cycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/src/project/CustomDataStructureException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/src/project/CustomDataStructureException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/src/project/DataStructures.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/src/project/DataStructures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment 3/src/project/FileOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment 3/src/project/FileOperations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
